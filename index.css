@@ -1,0 +1,41 @@
+body{
+margin:0;
+padding:0;
+}
+.ym{
+margin-top:150px;
+}
+@keyframes a{
+0%{
+width:0px;
+border-radius:20px;
+}
+100%{
+width:100vw;
+border-radius:20px;
+}
+}
+.a{
+height:100%;
+box-shadow:0px 5px 10px 15px rgba(0,0,0,0.1);
+position:absolute;
+top:0;
+right:0;
+background-color:white;
+}
+h3[id="ymb"]{
+display:none;
+}
+button[id="syya"]{
+display:none;
+}
+@keyframes b{
+0%{
+width:100vw;
+border-radius:20px;
+}
+100%{
+width:0px;
+border-radius:20px;
+}
+}
